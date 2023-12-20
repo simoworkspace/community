@@ -29,3 +29,11 @@ Se você trabalha com alguma linguagem de programação que lhe permite usar tip
 | NAME                                                    | LANGUAGE   |
 | ------------------------------------------------------- | ---------- |
 | [simo-api-types](https://github.com/simoworkspace/simo) | JavaScript |
+
+## Bots
+
+Alguns bots que usam a api da Simo
+
+| NOME                                                    | DESCRIÇÃO | URL   |
+| ------------------------------------------------------- | ---------- | ---------- |
+| SimoX | Um bot que tem a ideia de mostrar alguns dados da simo | [Abrir na Simo](https://bombadeagua.life/bot/1186367095131361320) |
