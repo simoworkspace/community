@@ -24,7 +24,7 @@ Os [events](https://github.com/simoworkspace/api/blob/main/api/events/README.md)
 
 ## Types
 
-Se você trabalha com alguma linguagem de programação que lhe permite usar tipos e estiver interagindo com a nossa API, uma maneira eficiente de tipar as suas coisas seria usando uma biblioteca idea para elas.
+Se você trabalha com alguma linguagem de programação que lhe permite usar tipos e estiver interagindo com a nossa API, uma maneira eficiente de tipar as suas coisas seria usando uma biblioteca ideal para elas.
 
 | NAME                                                    | LANGUAGE   |
 | ------------------------------------------------------- | ---------- |
