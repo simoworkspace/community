@@ -28,4 +28,4 @@ Se você trabalha com alguma linguagem de programação que lhe permite usar tip
 
 | NAME                                                    | LANGUAGE   |
 | ------------------------------------------------------- | ---------- |
-| [simo-api-types](https://github.com/simoworkspace/simo) | JavaScript |
+| [simo-api-types](https://github.com/simoworkspace/simo) | TypeScript |
