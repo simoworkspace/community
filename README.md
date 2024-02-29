@@ -6,14 +6,6 @@ Aqui nesse repositório você encontra bibliotecas e recursos maravilhosos da co
 
 O [Servidor de desenvovimento Simo](https://discord.gg/Dg7d5TmskV) é a chave principal para o sucesso do seu projeto com a Simo API, administratada por moderadores e desevolvedores que fazem parte da família Simo. Caso você necessite de ajuda, essa é a opção ideal para você.
 
-## Bots
-
-Bots são a peça chave para qualquer coisa no Discord, e na Simo também certo? Certo! Então aqui vai uma lista de bots que usa a API do Simo.
-
-| NAME                                                      | DESCRIPTION                                                                      |
-| --------------------------------------------------------- | -------------------------------------------------------------------------------- |
-| [Simox](https://bombadeagua.life/bot/1186367095131361320) | Um bot não oficial que mostra informações sobre a Simo BotList e seus bots/users |
-
 ## Libraries
 
 O projeto Simo possui bibliotecas feitas por ela, como o `simo.js` por exemplo, mas algumas bibliotecas de terceiros estão disponíveis abaixo. Algumas das bibliotecas abaixos são algumas das bibliotecas feitas por desenvolvedores que usam a Simo API.
